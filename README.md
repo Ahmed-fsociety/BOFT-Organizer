@@ -1,6 +1,6 @@
 # Elbaroudy Organizer
 
-Python app that organizes files in a given folder based on their file type works only on windows
+Python app that organizes files in a given folder based on their file type works (only on windows)
 
 
 
