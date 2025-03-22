@@ -1,4 +1,4 @@
-![BOFT Organizer](BOFT.png)
+![BOFT Organizer](boft.png)
 
 <p id="description">A file organizer that automatically/manually sorts files in a given folder by type</p>
 
