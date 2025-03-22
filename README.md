@@ -4,7 +4,7 @@
 
 <h2>Screenshots:</h2>
 
-<img src="https://imgur.com/luW1zhm" alt="boft-screenshot" width="742" height="709/">
+![Alt text]([https://imgur.com/luW1zhm])raw=true)
 
   
   
