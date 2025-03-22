@@ -1,14 +1,17 @@
-# BOFT Organizer
+![BOFT Organizer](BOFT.png)
 
- "Based-On-File-Type" Organizer aka BOFT Organizer is Python app that organizes files in a given folder based on their file type, only tested on windows will properly work fine on any linux distro tho
+<p id="description">A file organizer that automatically/manually sorts files in a given folder by type</p>
+
+<h2>Screenshots:</h2>
+
+<img src="https://imgur.com/luW1zhm" alt="boft-screenshot" width="742" height="709/">
+
+  
+  
+<h2>Features</h2>
 
 
 
-
-## Installation
-
-Install using curl
-
-```bash
-  curl -O https://github.com/Ahmed-fsociety/Elbaroudy-Organizer/blob/main/Elbaroudyorganizer.py
-
+*   Manual & Auto-Organize – Sort files with one click or automate it.
+*   System Tray Support – Runs in the background minimizing clutter.
+*   Minimalist UI
