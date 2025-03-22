@@ -2,7 +2,7 @@
 
 <p id="description">A file organizer that automatically/manually sorts files in a given folder by type</p>
 
-<h2>Screenshot:</h2>
+<h2>Screenshot</h2>
 
 ![BOFT App Screenshot](boft-app.png)
 
