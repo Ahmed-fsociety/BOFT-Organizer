@@ -4,7 +4,7 @@
 
 <h2>Screenshots:</h2>
 
-![Alt text]([https://imgur.com/luW1zhm])raw=true)
+![BOFT]([boft-app.png])
 
   
   
