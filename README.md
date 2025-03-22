@@ -4,7 +4,7 @@
 
 <h2>Screenshots:</h2>
 
-![BOFT]([boft-app.png])
+![BOFT App Screenshot](boft-app.png)
 
   
   
