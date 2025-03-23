@@ -6,7 +6,7 @@
 
 ![BOFT App Screenshot](boft-app.png)
 
-App is Still in Beta
+App is Still in Beta DO NOT EXPECT A BUG-FREE APP
   
   
 <h2>Features</h2>
