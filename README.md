@@ -17,5 +17,9 @@ note:app is still in beta
 *   System Tray Support – Runs in the background minimizing clutter.
 *   Minimalist UI
 
-#App Development Status
+
+
+
+
+# App Development Status
 Currently Working on the 1.0 Release
