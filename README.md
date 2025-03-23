@@ -6,7 +6,7 @@
 
 ![BOFT App Screenshot](boft-app.png)
 
-note:app is still in beta
+App is Still in Beta
   
   
 <h2>Features</h2>
