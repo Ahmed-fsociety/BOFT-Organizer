@@ -22,4 +22,4 @@ App is Still in Beta DO NOT EXPECT A BUG-FREE APP
 
 
 # App Development Status
-Currently Working on the 1.0 Release
+Currently Working on the Beta 1.0 Release
