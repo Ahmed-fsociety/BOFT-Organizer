@@ -4,7 +4,7 @@
 
 <h2>Screenshot</h2>
 
-![BOFT App Screenshot](boft-app.png)
+![BOFT App Screenshot](boft-ss.png)
 
 App is Still in Beta DO NOT EXPECT A BUG-FREE APP
   
