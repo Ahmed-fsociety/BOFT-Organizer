@@ -1,6 +1,6 @@
 ![BOFT Organizer](boft.png)
 
-<p id="description">A Cross-platform file organizer that automatically/manually sorts files in a given folder by type</p>
+<p id="description">A cross-platform file organizer that automatically/manually sorts files in a given folder by type</p>
 
 <h2>Screenshot</h2>
 
